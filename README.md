@@ -254,17 +254,19 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Cracking The Coding Interview Set 1:
+- [x] Cracking The Coding Interview Set 1:
     - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [x] How to Get a Job at the Big 4:
+    - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+
+            - [x] explored the given courses. if possible buy someday!!!
 
 </details>
 
@@ -284,8 +286,8 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
 
@@ -409,7 +411,7 @@ through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- [x] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
 ### 2. Use Flashcards
 
@@ -510,7 +512,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 <summary>Algorithmic complexity / Big-O / Asymptotic analysis</summary>
 
 - Nothing to implement
-- There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
+- There  are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
